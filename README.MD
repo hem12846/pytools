@@ -1,0 +1,1 @@
+this is a multitool that i'm currently working on that has 3 main features RNG, date/time and a calc.
